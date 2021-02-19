@@ -6,6 +6,8 @@ Introduction of Django's built-in Authentication System. In this project you can
 - Install django - pip install django
 - extract this repository or clone it.
 - go inside project directory and run command- python manage.py runserver
+- in cmd you will get URL of project i.e. http://localhost:8000
+- open this in your favourite browser
 
 ## Project guide
 - Login Credentials-
